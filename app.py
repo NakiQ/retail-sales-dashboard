@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv("C:/Users/admin/OneDrive/Desktop/Irise_Classes/Python/Python_Project/retail_dashboard_ready.csv")
+df = pd.read_csv("retail_dashboard_ready.csv")
 
 
 st.title("Retail Sales Dashboard")
