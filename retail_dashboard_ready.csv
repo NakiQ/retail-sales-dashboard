@@ -1,0 +1,435 @@
+CustomerID,Age,Gender,Region,ProductCategory,PurchaseAmount,Quantity,DiscountApplied,TotalSpent,PurchaseDate,Year,Month,Weekday,DiscountAmount,SpendingPerItem,AgeGroup,IsWeekend
+1000,39,Female,South,Clothing,151.51,1,0.18,124.24,2023-06-18,2023,6,Sunday,27.2718,124.24,Adult,True
+1001,33,Female,East,Electronics,111.94,1,0.2,89.55,2023-03-27,2023,3,Monday,22.388,89.55,Adult,False
+1002,41,Female,South,Home Decor,87.05,3,0.21,206.3,2023-06-26,2023,6,Monday,18.2805,68.76666666666667,Adult,False
+1004,32,Female,East,Home Decor,96.42,1,0.28,69.42,2023-04-08,2023,4,Saturday,26.997600000000002,69.42,Adult,True
+1006,50,Male,West,Clothing,136.38,2,0.19,220.94,2023-04-08,2023,4,Saturday,25.9122,110.47,Mature,True
+1007,42,Female,West,Books,102.6,1,0.07,95.42,2023-03-06,2023,3,Monday,7.182,95.42,Adult,False
+1008,30,Male,North,Home Decor,136.63,4,0.09,497.34,2023-11-26,2023,11,Sunday,12.2967,124.335,Young Adult,True
+1009,40,Male,North,Electronics,95.96,3,0.16,241.83,2023-12-07,2023,12,Thursday,15.3536,80.61,Adult,False
+1010,30,Male,South,Clothing,103.93,1,0.13,90.42,2023-01-05,2023,1,Thursday,13.510900000000001,90.42,Young Adult,False
+1011,30,Male,West,Home Decor,0.09,1,0.05,0.09,2023-01-02,2023,1,Monday,0.0045,0.09,Young Adult,False
+1012,37,Female,South,Home Decor,145.82,4,0.05,554.1,2023-01-22,2023,1,Sunday,7.291,138.525,Adult,True
+1013,15,Male,North,Clothing,117.32,1,0.13,102.07,2023-04-22,2023,4,Saturday,15.2516,102.07,Teen,True
+1014,17,Female,South,Books,149.9,1,0.23,115.42,2023-02-26,2023,2,Sunday,34.477000000000004,115.42,Teen,True
+1015,29,Female,North,Clothing,44.81,1,0.27,32.71,2023-03-07,2023,3,Tuesday,12.098700000000001,32.71,Young Adult,False
+1016,24,Male,West,Clothing,204.42,3,0.03,594.86,2023-11-26,2023,11,Sunday,6.132599999999999,198.28666666666666,Young Adult,True
+1017,38,Female,East,Electronics,93.02,1,0.12,81.86,2023-04-08,2023,4,Saturday,11.1624,81.86,Adult,True
+1018,25,Female,West,Electronics,155.41,2,0.03,301.49,2023-05-24,2023,5,Wednesday,4.6623,150.745,Young Adult,False
+1019,20,Female,South,Books,48.0,5,0.0,240.02,2023-05-05,2023,5,Friday,0.0,48.004000000000005,Young Adult,False
+1020,49,Male,South,Home Decor,130.64,1,0.2,104.51,2023-06-16,2023,6,Friday,26.128,104.51,Mature,False
+1021,32,Female,West,Clothing,47.33,2,0.18,77.62,2023-03-27,2023,3,Monday,8.5194,38.81,Adult,False
+1022,35,Female,West,Books,68.81,5,0.05,326.85,2023-03-17,2023,3,Friday,3.4405,65.37,Adult,False
+1023,20,Female,North,Electronics,195.7,1,0.07,182.0,2023-12-10,2023,12,Sunday,13.699,182.0,Young Adult,True
+1024,29,Male,South,Clothing,90.47,4,0.01,358.24,2023-10-21,2023,10,Saturday,0.9047000000000001,89.56,Young Adult,True
+1025,36,Female,South,Home Decor,110.87,4,0.25,332.61,2023-02-28,2023,2,Tuesday,27.7175,83.1525,Adult,False
+1026,23,Male,West,Electronics,143.5,1,0.29,101.89,2023-05-18,2023,5,Thursday,41.614999999999995,101.89,Young Adult,False
+1027,38,Male,East,Electronics,124.78,2,0.04,239.59,2023-04-09,2023,4,Sunday,4.9912,119.795,Adult,True
+1028,28,Male,South,Electronics,107.52,3,0.07,299.98,2023-07-11,2023,7,Tuesday,7.526400000000001,99.99333333333334,Young Adult,False
+1029,32,Male,East,Books,118.25,6,0.26,525.02,2023-08-31,2023,8,Thursday,30.745,87.50333333333333,Adult,False
+1031,53,Male,West,Clothing,97.12,4,0.13,337.97,2023-02-18,2023,2,Saturday,12.6256,84.4925,Mature,True
+1032,34,Female,North,Books,110.05,3,0.02,323.56,2023-02-01,2023,2,Wednesday,2.201,107.85333333333334,Adult,False
+1033,24,Male,South,Books,152.53,1,0.01,151.01,2023-10-04,2023,10,Wednesday,1.5253,151.01,Young Adult,False
+1034,43,Female,East,Books,155.28,4,0.17,515.52,2023-01-20,2023,1,Friday,26.3976,128.88,Adult,False
+1035,22,Female,North,Electronics,159.35,1,0.12,140.23,2023-06-03,2023,6,Saturday,19.122,140.23,Young Adult,True
+1036,37,Male,South,Home Decor,131.94,2,0.01,261.23,2023-03-09,2023,3,Thursday,1.3194,130.615,Adult,False
+1037,15,Female,North,Books,42.85,1,0.17,35.57,2023-08-02,2023,8,Wednesday,7.2845,35.57,Teen,False
+1038,21,Female,West,Clothing,181.67,4,0.0,726.69,2023-05-23,2023,5,Tuesday,0.0,181.6725,Young Adult,False
+1039,36,Female,South,Home Decor,42.68,3,0.24,97.32,2023-08-20,2023,8,Sunday,10.2432,32.44,Adult,True
+1040,42,Female,North,Clothing,115.13,6,0.09,628.62,2023-08-01,2023,8,Tuesday,10.361699999999999,104.77,Adult,False
+1041,36,Male,North,Home Decor,62.29,1,0.01,61.66,2023-03-20,2023,3,Monday,0.6229,61.66,Adult,False
+1042,33,Female,East,Clothing,96.79,2,0.18,158.74,2023-08-02,2023,8,Wednesday,17.4222,79.37,Adult,False
+1043,31,Male,North,Electronics,116.44,1,0.12,102.47,2023-04-26,2023,4,Wednesday,13.9728,102.47,Adult,False
+1044,20,Female,South,Books,116.07,2,0.29,164.82,2023-04-02,2023,4,Sunday,33.66029999999999,82.41,Young Adult,True
+1045,27,Female,South,Clothing,121.1,3,0.16,305.16,2023-09-27,2023,9,Wednesday,19.376,101.72000000000001,Young Adult,False
+1046,30,Male,East,Home Decor,180.69,3,0.08,498.69,2023-06-17,2023,6,Saturday,14.4552,166.23,Young Adult,True
+1048,38,Female,West,Books,87.79,1,0.08,80.77,2023-10-11,2023,10,Wednesday,7.023200000000001,80.77,Adult,False
+1049,17,Female,South,Home Decor,148.2,1,0.27,108.19,2023-01-26,2023,1,Thursday,40.014,108.19,Teen,False
+1050,38,Male,South,Clothing,159.47,4,0.11,567.73,2023-03-07,2023,3,Tuesday,17.5417,141.9325,Adult,False
+1051,31,Female,North,Electronics,38.62,1,0.16,32.44,2023-09-05,2023,9,Tuesday,6.1792,32.44,Adult,False
+1052,28,Male,North,Electronics,129.87,4,0.02,509.09,2023-09-11,2023,9,Monday,2.5974,127.2725,Young Adult,False
+1054,45,Male,East,Books,85.12,3,0.25,191.52,2023-04-07,2023,4,Friday,21.28,63.84,Adult,False
+1055,44,Male,North,Books,168.79,1,0.24,128.28,2023-02-11,2023,2,Saturday,40.5096,128.28,Adult,True
+1056,26,Female,East,Books,92.5,2,0.07,172.04,2023-08-15,2023,8,Tuesday,6.4750000000000005,86.02,Young Adult,False
+1057,31,Female,South,Books,106.28,4,0.07,395.36,2023-09-19,2023,9,Tuesday,7.4396,98.84,Adult,False
+1058,38,Male,South,Clothing,91.35,2,0.25,137.02,2023-06-16,2023,6,Friday,22.8375,68.51,Adult,False
+1059,44,Male,West,Books,100.78,1,0.28,72.56,2023-10-06,2023,10,Friday,28.218400000000003,72.56,Adult,False
+1060,30,Female,North,Home Decor,45.19,1,0.03,43.83,2023-03-30,2023,3,Thursday,1.3557,43.83,Young Adult,False
+1061,33,Male,South,Books,28.0,2,0.14,48.16,2023-06-27,2023,6,Tuesday,3.9200000000000004,24.08,Adult,False
+1062,23,Female,West,Electronics,179.73,1,0.1,161.75,2023-07-16,2023,7,Sunday,17.973,161.75,Young Adult,True
+1063,23,Female,North,Books,57.65,2,0.26,85.32,2023-11-03,2023,11,Friday,14.989,42.66,Young Adult,False
+1064,43,Female,South,Clothing,50.43,1,0.03,48.92,2023-09-24,2023,9,Sunday,1.5129,48.92,Adult,True
+1065,48,Female,South,Electronics,7.67,2,0.06,14.42,2023-09-25,2023,9,Monday,0.4602,7.21,Mature,False
+1067,45,Female,North,Clothing,33.85,1,0.02,33.17,2023-01-08,2023,1,Sunday,0.677,33.17,Adult,True
+1068,38,Male,North,Electronics,182.1,4,0.15,619.14,2023-10-24,2023,10,Tuesday,27.314999999999998,154.785,Adult,False
+1069,28,Female,South,Clothing,150.49,3,0.13,392.78,2023-06-13,2023,6,Tuesday,19.5637,130.92666666666665,Young Adult,False
+1070,38,Male,South,Clothing,65.59,2,0.1,118.07,2023-03-26,2023,3,Sunday,6.559000000000001,59.035,Adult,True
+1071,50,Female,West,Books,212.62,2,0.12,374.21,2023-03-13,2023,3,Monday,25.5144,187.105,Mature,False
+1072,34,Male,East,Home Decor,149.09,1,0.16,125.23,2023-02-24,2023,2,Friday,23.854400000000002,125.23,Adult,False
+1073,50,Male,North,Clothing,83.76,5,0.05,397.85,2023-02-16,2023,2,Thursday,4.188000000000001,79.57000000000001,Mature,False
+1075,43,Female,South,Clothing,214.55,2,0.24,326.11,2023-04-14,2023,4,Friday,51.492,163.055,Adult,False
+1076,35,Female,North,Books,30.52,3,0.23,70.5,2023-07-29,2023,7,Saturday,7.0196000000000005,23.5,Adult,True
+1077,32,Female,East,Home Decor,17.73,1,0.05,16.84,2023-02-11,2023,2,Saturday,0.8865000000000001,16.84,Adult,True
+1078,35,Male,North,Electronics,151.13,2,0.04,290.17,2023-11-12,2023,11,Sunday,6.0452,145.085,Adult,True
+1079,15,Female,East,Books,221.99,4,0.08,816.91,2023-09-25,2023,9,Monday,17.7592,204.2275,Teen,False
+1080,32,Male,South,Books,169.21,3,0.11,451.8,2023-09-20,2023,9,Wednesday,18.6131,150.6,Adult,False
+1081,38,Male,East,Home Decor,128.2,2,0.12,225.62,2023-12-02,2023,12,Saturday,15.383999999999999,112.81,Adult,True
+1082,49,Female,West,Home Decor,129.74,1,0.2,103.79,2023-12-31,2023,12,Sunday,25.948000000000004,103.79,Mature,True
+1083,29,Male,South,Books,142.67,3,0.02,419.45,2023-09-16,2023,9,Saturday,2.8533999999999997,139.81666666666666,Young Adult,True
+1084,26,Male,West,Electronics,137.95,2,0.01,273.13,2023-10-10,2023,10,Tuesday,1.3795,136.565,Young Adult,False
+1085,29,Male,North,Books,114.06,1,0.12,100.37,2023-04-24,2023,4,Monday,13.687199999999999,100.37,Young Adult,False
+1088,29,Female,East,Home Decor,62.3,2,0.19,100.93,2023-08-08,2023,8,Tuesday,11.837,50.465,Young Adult,False
+1090,35,Female,North,Clothing,15.35,1,0.27,11.21,2023-01-08,2023,1,Sunday,4.1445,11.21,Adult,True
+1093,31,Female,North,Books,44.82,2,0.07,83.37,2023-04-17,2023,4,Monday,3.1374000000000004,41.685,Adult,False
+1094,31,Female,West,Home Decor,108.99,2,0.12,191.83,2023-04-11,2023,4,Tuesday,13.0788,95.915,Adult,False
+1095,20,Female,South,Home Decor,169.6,4,0.07,630.91,2023-09-17,2023,9,Sunday,11.872,157.7275,Young Adult,True
+1096,37,Male,South,Clothing,145.92,4,0.2,466.93,2023-09-03,2023,9,Sunday,29.183999999999997,116.7325,Adult,True
+1098,35,Female,West,Clothing,50.52,2,0.2,80.83,2023-02-01,2023,2,Wednesday,10.104000000000001,40.415,Adult,False
+1099,32,Female,South,Clothing,147.04,1,0.25,110.28,2023-05-17,2023,5,Wednesday,36.76,110.28,Adult,False
+1100,20,Male,West,Clothing,50.88,2,0.12,89.54,2023-01-12,2023,1,Thursday,6.1056,44.77,Young Adult,False
+1101,30,Male,South,Clothing,88.77,1,0.05,84.33,2023-10-29,2023,10,Sunday,4.4385,84.33,Young Adult,True
+1103,26,Male,North,Books,51.58,4,0.11,183.63,2023-05-09,2023,5,Tuesday,5.6738,45.9075,Young Adult,False
+1104,33,Male,East,Electronics,105.27,4,0.2,336.86,2023-03-04,2023,3,Saturday,21.054000000000002,84.215,Adult,True
+1105,39,Male,North,Home Decor,33.3,1,0.08,30.63,2023-04-19,2023,4,Wednesday,2.6639999999999997,30.63,Adult,False
+1106,53,Male,West,Electronics,69.93,1,0.02,68.53,2023-01-21,2023,1,Saturday,1.3986,68.53,Mature,True
+1107,36,Male,East,Electronics,115.99,3,0.3,243.58,2023-06-07,2023,6,Wednesday,34.797,81.19333333333334,Adult,False
+1108,37,Female,South,Home Decor,20.35,6,0.05,116.0,2023-09-26,2023,9,Tuesday,1.0175,19.333333333333332,Adult,False
+1109,34,Female,North,Home Decor,122.02,1,0.3,85.42,2023-06-11,2023,6,Sunday,36.605999999999995,85.42,Adult,True
+1110,15,Male,North,Home Decor,99.02,1,0.29,70.3,2023-09-17,2023,9,Sunday,28.715799999999998,70.3,Teen,True
+1111,34,Male,East,Electronics,127.62,3,0.24,290.98,2023-04-12,2023,4,Wednesday,30.6288,96.99333333333334,Adult,False
+1112,35,Female,West,Electronics,111.2,3,0.2,266.87,2023-08-11,2023,8,Friday,22.240000000000002,88.95666666666666,Adult,False
+1113,59,Male,East,Home Decor,168.21,1,0.17,139.61,2023-02-28,2023,2,Tuesday,28.595700000000004,139.61,Mature,False
+1114,33,Male,West,Books,106.26,2,0.26,157.27,2023-09-04,2023,9,Monday,27.6276,78.635,Adult,False
+1115,38,Male,West,Books,78.53,2,0.09,142.92,2023-05-08,2023,5,Monday,7.067699999999999,71.46,Adult,False
+1116,34,Female,North,Clothing,106.11,1,0.14,91.26,2023-10-10,2023,10,Tuesday,14.855400000000001,91.26,Adult,False
+1117,23,Female,East,Home Decor,127.16,2,0.19,206.01,2023-11-21,2023,11,Tuesday,24.1604,103.005,Young Adult,False
+1118,46,Female,East,Clothing,102.44,2,0.12,180.3,2023-01-25,2023,1,Wednesday,12.2928,90.15,Mature,False
+1119,42,Female,West,Books,102.03,2,0.13,177.53,2023-05-11,2023,5,Thursday,13.263900000000001,88.765,Adult,False
+1120,42,Female,East,Clothing,64.9,2,0.1,116.82,2023-12-19,2023,12,Tuesday,6.490000000000001,58.41,Adult,False
+1121,25,Male,South,Home Decor,66.85,2,0.17,110.98,2023-07-15,2023,7,Saturday,11.3645,55.49,Young Adult,True
+1122,49,Female,South,Home Decor,29.87,1,0.26,22.1,2023-10-08,2023,10,Sunday,7.7662,22.1,Mature,True
+1123,20,Male,East,Home Decor,187.48,1,0.06,176.23,2023-06-03,2023,6,Saturday,11.2488,176.23,Young Adult,True
+1124,40,Male,East,Electronics,37.81,5,0.28,136.1,2023-05-13,2023,5,Saturday,10.586800000000002,27.22,Adult,True
+1125,56,Female,West,Clothing,65.35,3,0.21,154.89,2023-08-15,2023,8,Tuesday,13.723499999999998,51.629999999999995,Mature,False
+1126,25,Female,South,Books,64.08,3,0.25,144.18,2023-07-08,2023,7,Saturday,16.02,48.06,Young Adult,True
+1127,29,Male,South,Books,144.75,1,0.17,120.14,2023-09-22,2023,9,Friday,24.6075,120.14,Young Adult,False
+1128,35,Male,North,Books,85.25,2,0.23,131.29,2023-05-14,2023,5,Sunday,19.6075,65.645,Adult,True
+1129,29,Male,West,Electronics,162.39,7,0.0,1136.71,2023-07-30,2023,7,Sunday,0.0,162.38714285714286,Young Adult,True
+1130,19,Female,North,Electronics,66.33,2,0.25,99.49,2023-03-01,2023,3,Wednesday,16.5825,49.745,Young Adult,False
+1131,35,Female,South,Home Decor,113.95,2,0.01,225.62,2023-12-30,2023,12,Saturday,1.1395,112.81,Adult,True
+1132,24,Female,West,Books,58.23,3,0.27,127.53,2023-12-30,2023,12,Saturday,15.722100000000001,42.51,Young Adult,True
+1134,25,Female,West,Home Decor,40.62,2,0.09,73.93,2023-08-04,2023,8,Friday,3.6557999999999997,36.965,Young Adult,False
+1135,50,Male,East,Books,115.49,2,0.06,217.12,2023-08-14,2023,8,Monday,6.929399999999999,108.56,Mature,False
+1136,27,Female,East,Clothing,131.69,2,0.23,202.8,2023-05-11,2023,5,Thursday,30.288700000000002,101.4,Young Adult,False
+1137,31,Male,West,Home Decor,120.69,1,0.08,111.03,2023-03-17,2023,3,Friday,9.6552,111.03,Adult,False
+1138,43,Male,East,Electronics,90.74,2,0.26,134.29,2023-10-13,2023,10,Friday,23.592399999999998,67.145,Adult,False
+1139,22,Male,North,Electronics,93.51,1,0.03,90.7,2023-10-04,2023,10,Wednesday,2.8053,90.7,Young Adult,False
+1140,37,Female,South,Home Decor,102.19,2,0.04,196.21,2023-06-05,2023,6,Monday,4.0876,98.105,Adult,False
+1141,48,Female,East,Home Decor,92.65,2,0.29,131.56,2023-09-05,2023,9,Tuesday,26.8685,65.78,Mature,False
+1142,18,Female,North,Electronics,148.19,5,0.2,592.78,2023-08-06,2023,8,Sunday,29.638,118.556,Teen,True
+1143,36,Male,East,Clothing,210.53,2,0.25,315.79,2023-07-09,2023,7,Sunday,52.6325,157.895,Adult,True
+1144,37,Male,South,Books,72.13,2,0.1,129.83,2023-06-12,2023,6,Monday,7.213,64.915,Adult,False
+1145,42,Male,North,Clothing,31.51,1,0.2,25.21,2023-06-29,2023,6,Thursday,6.3020000000000005,25.21,Adult,False
+1146,22,Male,South,Home Decor,95.59,1,0.18,78.38,2023-02-03,2023,2,Friday,17.2062,78.38,Young Adult,False
+1149,37,Female,North,Home Decor,181.96,2,0.17,302.05,2023-12-04,2023,12,Monday,30.933200000000003,151.025,Adult,False
+1150,37,Female,North,Books,183.89,4,0.13,639.92,2023-11-10,2023,11,Friday,23.9057,159.98,Adult,False
+1151,38,Female,West,Electronics,72.32,2,0.08,133.07,2023-03-16,2023,3,Thursday,5.7856,66.535,Adult,False
+1152,28,Female,North,Electronics,128.45,5,0.23,494.53,2023-10-06,2023,10,Friday,29.543499999999998,98.90599999999999,Young Adult,False
+1153,37,Male,North,Books,181.42,1,0.07,168.72,2023-06-25,2023,6,Sunday,12.6994,168.72,Adult,True
+1154,37,Male,North,Books,81.04,1,0.21,64.02,2023-05-30,2023,5,Tuesday,17.0184,64.02,Adult,False
+1155,27,Female,North,Clothing,89.82,2,0.07,167.07,2023-09-30,2023,9,Saturday,6.2874,83.535,Young Adult,True
+1158,23,Female,South,Books,67.54,4,0.07,251.23,2023-05-19,2023,5,Friday,4.727800000000001,62.8075,Young Adult,False
+1159,41,Female,North,Home Decor,38.8,3,0.02,114.08,2023-12-16,2023,12,Saturday,0.7759999999999999,38.026666666666664,Adult,True
+1160,25,Male,East,Books,101.7,1,0.04,97.64,2023-09-28,2023,9,Thursday,4.0680000000000005,97.64,Young Adult,False
+1161,42,Female,East,Books,61.5,2,0.18,100.86,2023-12-13,2023,12,Wednesday,11.07,50.43,Adult,False
+1164,44,Male,North,Electronics,116.54,1,0.22,90.9,2023-09-29,2023,9,Friday,25.6388,90.9,Adult,False
+1165,39,Male,West,Electronics,141.68,2,0.1,255.02,2023-03-07,2023,3,Tuesday,14.168000000000001,127.51,Adult,False
+1166,43,Female,West,Electronics,0.31,2,0.14,0.54,2023-09-05,2023,9,Tuesday,0.0434,0.27,Adult,False
+1167,53,Male,East,Books,118.7,1,0.28,85.47,2023-06-05,2023,6,Monday,33.236000000000004,85.47,Mature,False
+1169,27,Male,South,Home Decor,39.52,3,0.14,101.96,2023-07-20,2023,7,Thursday,5.532800000000001,33.986666666666665,Young Adult,False
+1170,26,Male,South,Clothing,183.63,3,0.0,550.89,2023-05-28,2023,5,Sunday,0.0,183.63,Young Adult,True
+1171,26,Male,West,Clothing,120.95,3,0.02,355.6,2023-05-04,2023,5,Thursday,2.419,118.53333333333335,Young Adult,False
+1172,34,Male,East,Books,64.75,5,0.08,297.85,2023-01-01,2023,1,Sunday,5.18,59.57000000000001,Adult,True
+1173,38,Male,North,Home Decor,97.21,2,0.01,192.48,2023-09-04,2023,9,Monday,0.9721,96.24,Adult,False
+1174,37,Male,West,Home Decor,127.92,2,0.19,207.22,2023-12-09,2023,12,Saturday,24.3048,103.61,Adult,True
+1175,43,Male,East,Electronics,103.8,3,0.13,270.92,2023-05-08,2023,5,Monday,13.494,90.30666666666667,Adult,False
+1176,35,Male,East,Books,126.94,2,0.16,213.26,2023-07-10,2023,7,Monday,20.3104,106.63,Adult,False
+1177,49,Female,North,Books,53.97,2,0.05,102.54,2023-03-08,2023,3,Wednesday,2.6985,51.27,Mature,False
+1178,32,Female,North,Electronics,108.47,2,0.09,197.41,2023-01-04,2023,1,Wednesday,9.7623,98.705,Adult,False
+1179,62,Male,North,Books,29.31,6,0.2,140.71,2023-10-30,2023,10,Monday,5.862,23.451666666666668,Senior,False
+1180,41,Female,South,Books,94.44,4,0.29,268.21,2023-10-21,2023,10,Saturday,27.3876,67.0525,Adult,True
+1181,26,Female,North,Clothing,54.8,1,0.02,53.71,2023-05-23,2023,5,Tuesday,1.0959999999999999,53.71,Young Adult,False
+1182,24,Male,East,Home Decor,63.22,6,0.27,276.92,2023-07-10,2023,7,Monday,17.0694,46.153333333333336,Young Adult,False
+1183,39,Male,North,Books,161.8,1,0.17,134.3,2023-01-21,2023,1,Saturday,27.506000000000004,134.3,Adult,True
+1184,32,Male,East,Clothing,154.57,3,0.17,384.87,2023-08-15,2023,8,Tuesday,26.2769,128.29,Adult,False
+1185,42,Female,West,Home Decor,130.46,1,0.15,110.89,2023-11-09,2023,11,Thursday,19.569,110.89,Adult,False
+1186,39,Female,South,Electronics,45.38,3,0.02,133.43,2023-04-27,2023,4,Thursday,0.9076000000000001,44.47666666666667,Adult,False
+1187,34,Male,West,Clothing,84.18,4,0.03,326.62,2023-10-29,2023,10,Sunday,2.5254000000000003,81.655,Adult,True
+1188,26,Male,West,Clothing,160.65,3,0.18,395.21,2023-05-22,2023,5,Monday,28.917,131.73666666666665,Young Adult,False
+1189,19,Male,East,Home Decor,107.09,3,0.1,289.13,2023-02-08,2023,2,Wednesday,10.709000000000001,96.37666666666667,Young Adult,False
+1190,30,Female,West,Electronics,215.97,2,0.28,310.99,2023-12-21,2023,12,Thursday,60.4716,155.495,Young Adult,False
+1191,43,Female,East,Clothing,119.67,4,0.12,421.22,2023-09-09,2023,9,Saturday,14.3604,105.305,Adult,True
+1192,37,Female,North,Books,109.6,4,0.04,420.87,2023-11-29,2023,11,Wednesday,4.3839999999999995,105.2175,Adult,False
+1193,22,Female,North,Books,84.54,1,0.21,66.79,2023-07-26,2023,7,Wednesday,17.7534,66.79,Young Adult,False
+1194,36,Male,East,Books,106.68,2,0.09,194.15,2023-07-29,2023,7,Saturday,9.6012,97.075,Adult,True
+1195,38,Male,North,Electronics,92.38,2,0.16,155.19,2023-04-25,2023,4,Tuesday,14.7808,77.595,Adult,False
+1196,26,Male,South,Clothing,135.41,2,0.21,213.94,2023-08-13,2023,8,Sunday,28.4361,106.97,Young Adult,True
+1197,36,Male,West,Books,147.84,2,0.27,215.84,2023-05-14,2023,5,Sunday,39.9168,107.92,Adult,True
+1198,35,Female,South,Electronics,60.7,2,0.24,92.26,2023-09-08,2023,9,Friday,14.568,46.13,Adult,False
+1199,23,Female,West,Books,33.44,4,0.2,107.0,2023-08-07,2023,8,Monday,6.688,26.75,Young Adult,False
+1200,38,Male,North,Home Decor,8.19,1,0.2,6.55,2023-04-01,2023,4,Saturday,1.638,6.55,Adult,True
+1201,40,Male,South,Clothing,125.4,1,0.28,90.29,2023-12-20,2023,12,Wednesday,35.112,90.29,Adult,False
+1202,45,Female,North,Clothing,44.83,1,0.09,40.8,2023-02-15,2023,2,Wednesday,4.0347,40.8,Adult,False
+1203,45,Male,West,Electronics,7.64,2,0.0,15.29,2023-02-07,2023,2,Tuesday,0.0,7.645,Adult,False
+1204,21,Female,East,Electronics,119.43,1,0.08,109.87,2023-05-22,2023,5,Monday,9.554400000000001,109.87,Young Adult,False
+1205,25,Male,East,Clothing,224.65,1,0.07,208.92,2023-04-10,2023,4,Monday,15.725500000000002,208.92,Young Adult,False
+1206,40,Male,South,Books,99.7,3,0.2,239.27,2023-11-24,2023,11,Friday,19.94,79.75666666666667,Adult,False
+1207,40,Male,North,Books,141.92,2,0.19,229.92,2023-07-09,2023,7,Sunday,26.964799999999997,114.96,Adult,True
+1208,40,Male,North,Home Decor,104.09,1,0.18,85.36,2023-02-04,2023,2,Saturday,18.7362,85.36,Adult,True
+1209,73,Male,South,Books,95.06,1,0.0,95.06,2023-05-27,2023,5,Saturday,0.0,95.06,Senior,True
+1210,40,Male,East,Electronics,145.95,3,0.22,341.53,2023-01-30,2023,1,Monday,32.108999999999995,113.84333333333332,Adult,False
+1212,44,Female,South,Books,113.37,2,0.2,181.39,2023-03-25,2023,3,Saturday,22.674000000000003,90.695,Adult,True
+1213,41,Female,West,Electronics,116.08,3,0.17,289.05,2023-10-08,2023,10,Sunday,19.733600000000003,96.35000000000001,Adult,True
+1215,42,Female,North,Clothing,149.6,3,0.04,430.85,2023-09-27,2023,9,Wednesday,5.984,143.61666666666667,Adult,False
+1216,27,Female,East,Books,91.25,2,0.03,177.03,2023-06-03,2023,6,Saturday,2.7375,88.515,Young Adult,True
+1217,32,Male,South,Clothing,62.21,3,0.25,139.98,2023-04-12,2023,4,Wednesday,15.5525,46.66,Adult,False
+1218,30,Male,North,Clothing,126.83,2,0.28,182.63,2023-08-03,2023,8,Thursday,35.5124,91.315,Young Adult,False
+1219,35,Female,South,Home Decor,55.08,2,0.19,89.22,2023-05-30,2023,5,Tuesday,10.4652,44.61,Adult,False
+1220,58,Male,South,Home Decor,101.41,3,0.03,295.1,2023-03-24,2023,3,Friday,3.0423,98.36666666666667,Mature,False
+1221,16,Female,East,Clothing,99.54,2,0.12,175.2,2023-04-20,2023,4,Thursday,11.9448,87.6,Teen,False
+1222,41,Female,South,Books,154.29,3,0.22,361.05,2023-10-02,2023,10,Monday,33.943799999999996,120.35000000000001,Adult,False
+1223,18,Male,East,Home Decor,123.73,2,0.23,190.55,2023-07-20,2023,7,Thursday,28.457900000000002,95.275,Teen,False
+1225,45,Male,East,Electronics,140.89,1,0.0,140.89,2023-06-22,2023,6,Thursday,0.0,140.89,Adult,False
+1226,35,Female,North,Electronics,169.51,3,0.21,401.74,2023-11-23,2023,11,Thursday,35.5971,133.91333333333333,Adult,False
+1227,24,Male,East,Books,127.89,2,0.11,227.65,2023-07-25,2023,7,Tuesday,14.0679,113.825,Young Adult,False
+1228,27,Female,West,Clothing,100.52,3,0.08,277.43,2023-03-04,2023,3,Saturday,8.041599999999999,92.47666666666667,Young Adult,True
+1229,41,Female,West,Electronics,34.41,1,0.0,34.41,2023-03-14,2023,3,Tuesday,0.0,34.41,Adult,False
+1230,27,Female,South,Books,46.74,2,0.16,78.53,2023-09-08,2023,9,Friday,7.478400000000001,39.265,Young Adult,False
+1232,35,Male,East,Clothing,69.52,1,0.29,49.36,2023-05-01,2023,5,Monday,20.1608,49.36,Adult,False
+1233,28,Female,North,Home Decor,90.65,1,0.17,75.24,2023-10-02,2023,10,Monday,15.410500000000003,75.24,Young Adult,False
+1235,41,Male,East,Electronics,126.48,4,0.03,490.76,2023-11-13,2023,11,Monday,3.7944,122.69,Adult,False
+1236,14,Male,South,Electronics,96.48,6,0.16,486.23,2023-06-13,2023,6,Tuesday,15.436800000000002,81.03833333333334,Teen,False
+1237,36,Female,West,Books,124.33,4,0.11,442.6,2023-10-13,2023,10,Friday,13.6763,110.65,Adult,False
+1238,28,Female,East,Electronics,103.22,3,0.18,253.93,2023-09-22,2023,9,Friday,18.5796,84.64333333333333,Young Adult,False
+1239,43,Male,East,Clothing,1.23,1,0.12,1.08,2023-11-16,2023,11,Thursday,0.14759999999999998,1.08,Adult,False
+1240,27,Female,South,Books,53.03,4,0.07,197.28,2023-06-10,2023,6,Saturday,3.7121000000000004,49.32,Young Adult,True
+1241,33,Male,East,Home Decor,92.8,2,0.03,180.02,2023-11-04,2023,11,Saturday,2.784,90.01,Adult,True
+1242,40,Male,South,Books,39.52,3,0.09,107.88,2023-03-30,2023,3,Thursday,3.5568,35.96,Adult,False
+1243,43,Male,East,Clothing,130.0,2,0.03,252.19,2023-05-22,2023,5,Monday,3.9,126.095,Adult,False
+1245,31,Female,South,Books,160.94,2,0.3,225.31,2023-11-05,2023,11,Sunday,48.282,112.655,Adult,True
+1246,30,Female,East,Books,89.33,2,0.13,155.43,2023-08-15,2023,8,Tuesday,11.6129,77.715,Young Adult,False
+1247,28,Female,West,Electronics,174.54,3,0.16,439.83,2023-11-30,2023,11,Thursday,27.9264,146.60999999999999,Young Adult,False
+1248,52,Male,East,Clothing,107.43,1,0.26,79.5,2023-08-10,2023,8,Thursday,27.931800000000003,79.5,Mature,False
+1250,22,Male,West,Books,69.33,1,0.17,57.54,2023-07-15,2023,7,Saturday,11.786100000000001,57.54,Young Adult,True
+1251,44,Female,North,Clothing,84.88,3,0.24,193.52,2023-03-09,2023,3,Thursday,20.371199999999998,64.50666666666667,Adult,False
+1252,56,Male,South,Books,80.59,1,0.1,72.53,2023-09-21,2023,9,Thursday,8.059000000000001,72.53,Mature,False
+1253,45,Female,East,Electronics,108.52,1,0.09,98.75,2023-01-02,2023,1,Monday,9.7668,98.75,Adult,False
+1254,19,Female,North,Clothing,108.03,2,0.12,190.13,2023-12-27,2023,12,Wednesday,12.9636,95.065,Young Adult,False
+1255,30,Female,East,Electronics,100.15,5,0.2,400.61,2023-05-05,2023,5,Friday,20.03,80.122,Young Adult,False
+1256,47,Female,West,Electronics,121.85,4,0.2,389.91,2023-04-20,2023,4,Thursday,24.37,97.4775,Mature,False
+1257,27,Female,South,Electronics,159.53,2,0.09,290.35,2023-03-27,2023,3,Monday,14.3577,145.175,Young Adult,False
+1258,39,Female,East,Electronics,147.48,2,0.04,283.16,2023-04-30,2023,4,Sunday,5.8991999999999996,141.58,Adult,True
+1259,42,Male,East,Clothing,25.76,5,0.19,104.31,2023-05-07,2023,5,Sunday,4.8944,20.862000000000002,Adult,True
+1260,25,Male,West,Electronics,27.7,1,0.04,26.59,2023-09-12,2023,9,Tuesday,1.108,26.59,Young Adult,False
+1261,34,Female,East,Electronics,146.72,2,0.17,243.55,2023-07-02,2023,7,Sunday,24.942400000000003,121.775,Adult,True
+1263,24,Male,West,Clothing,88.76,3,0.21,210.37,2023-03-03,2023,3,Friday,18.6396,70.12333333333333,Young Adult,False
+1266,51,Male,North,Clothing,127.07,2,0.15,216.02,2023-02-04,2023,2,Saturday,19.060499999999998,108.01,Mature,True
+1267,20,Female,South,Clothing,137.96,1,0.22,107.61,2023-09-24,2023,9,Sunday,30.351200000000002,107.61,Young Adult,True
+1268,30,Female,North,Home Decor,71.17,1,0.19,57.65,2023-03-05,2023,3,Sunday,13.522300000000001,57.65,Young Adult,True
+1269,36,Female,North,Clothing,29.55,2,0.06,55.56,2023-02-19,2023,2,Sunday,1.773,27.78,Adult,True
+1270,49,Male,South,Clothing,72.69,1,0.01,71.96,2023-09-12,2023,9,Tuesday,0.7269,71.96,Mature,False
+1271,20,Male,North,Clothing,119.59,2,0.09,217.65,2023-05-29,2023,5,Monday,10.7631,108.825,Young Adult,False
+1272,46,Male,West,Clothing,26.05,2,0.13,45.33,2023-11-21,2023,11,Tuesday,3.3865000000000003,22.665,Mature,False
+1273,35,Female,North,Home Decor,109.17,3,0.19,265.28,2023-10-31,2023,10,Tuesday,20.7423,88.42666666666666,Adult,False
+1274,25,Female,South,Clothing,99.23,3,0.25,223.28,2023-10-03,2023,10,Tuesday,24.8075,74.42666666666666,Young Adult,False
+1275,39,Male,West,Clothing,128.96,1,0.06,121.23,2023-12-23,2023,12,Saturday,7.7376000000000005,121.23,Adult,True
+1276,36,Female,South,Home Decor,105.98,1,0.04,101.74,2023-06-21,2023,6,Wednesday,4.2392,101.74,Adult,False
+1277,28,Female,South,Books,51.35,1,0.29,36.46,2023-07-20,2023,7,Thursday,14.891499999999999,36.46,Young Adult,False
+1278,35,Female,East,Electronics,159.83,2,0.03,310.07,2023-11-20,2023,11,Monday,4.7949,155.035,Adult,False
+1279,31,Female,East,Books,92.07,2,0.14,158.37,2023-02-04,2023,2,Saturday,12.889800000000001,79.185,Adult,True
+1280,36,Female,South,Home Decor,98.63,1,0.18,80.88,2023-08-04,2023,8,Friday,17.7534,80.88,Adult,False
+1281,41,Male,South,Electronics,53.34,1,0.16,44.8,2023-03-06,2023,3,Monday,8.534400000000002,44.8,Adult,False
+1282,50,Female,South,Home Decor,77.84,3,0.03,226.5,2023-01-08,2023,1,Sunday,2.3352,75.5,Mature,True
+1283,22,Male,East,Home Decor,55.76,1,0.02,54.64,2023-10-28,2023,10,Saturday,1.1152,54.64,Young Adult,True
+1284,56,Female,East,Clothing,91.35,5,0.03,443.06,2023-12-09,2023,12,Saturday,2.7405,88.612,Mature,True
+1285,15,Male,North,Electronics,185.59,2,0.18,304.36,2023-11-28,2023,11,Tuesday,33.4062,152.18,Teen,False
+1286,33,Female,North,Clothing,31.4,3,0.16,79.14,2023-03-17,2023,3,Friday,5.024,26.38,Adult,False
+1288,37,Female,West,Home Decor,173.56,3,0.19,421.75,2023-02-16,2023,2,Thursday,32.9764,140.58333333333334,Adult,False
+1290,32,Female,East,Books,66.55,4,0.01,263.52,2023-12-27,2023,12,Wednesday,0.6655,65.88,Adult,False
+1291,30,Male,East,Electronics,152.0,1,0.15,129.2,2023-05-27,2023,5,Saturday,22.8,129.2,Young Adult,True
+1292,29,Female,East,Clothing,69.72,2,0.21,110.16,2023-01-26,2023,1,Thursday,14.6412,55.08,Young Adult,False
+1293,43,Male,South,Books,191.3,3,0.08,527.99,2023-11-04,2023,11,Saturday,15.304000000000002,175.99666666666667,Adult,True
+1294,38,Male,West,Books,133.9,1,0.09,121.85,2023-04-03,2023,4,Monday,12.051,121.85,Adult,False
+1296,43,Female,South,Clothing,207.87,2,0.27,303.48,2023-01-21,2023,1,Saturday,56.124900000000004,151.74,Adult,True
+1297,38,Male,North,Books,69.71,2,0.24,105.97,2023-11-03,2023,11,Friday,16.7304,52.985,Adult,False
+1298,43,Female,North,Clothing,137.1,2,0.17,227.59,2023-02-07,2023,2,Tuesday,23.307000000000002,113.795,Adult,False
+1300,26,Male,North,Clothing,165.09,3,0.11,440.78,2023-06-06,2023,6,Tuesday,18.1599,146.92666666666665,Young Adult,False
+1301,29,Male,West,Home Decor,178.08,5,0.19,721.21,2023-06-28,2023,6,Wednesday,33.8352,144.24200000000002,Young Adult,False
+1302,42,Female,North,Home Decor,101.6,1,0.14,87.38,2023-05-12,2023,5,Friday,14.224,87.38,Adult,False
+1303,41,Male,West,Home Decor,62.33,2,0.06,117.18,2023-11-07,2023,11,Tuesday,3.7398,58.59,Adult,False
+1304,34,Male,West,Home Decor,123.0,2,0.21,194.34,2023-12-14,2023,12,Thursday,25.83,97.17,Adult,False
+1305,36,Female,West,Home Decor,66.11,6,0.17,329.25,2023-01-28,2023,1,Saturday,11.238700000000001,54.875,Adult,True
+1306,47,Female,East,Books,200.67,1,0.11,178.6,2023-09-17,2023,9,Sunday,22.0737,178.6,Mature,True
+1307,29,Female,North,Books,106.83,2,0.27,155.97,2023-03-17,2023,3,Friday,28.8441,77.985,Young Adult,False
+1308,40,Female,South,Books,81.73,1,0.01,80.92,2023-03-08,2023,3,Wednesday,0.8173,80.92,Adult,False
+1309,32,Male,South,Clothing,109.23,1,0.09,99.4,2023-12-08,2023,12,Friday,9.8307,99.4,Adult,False
+1310,32,Male,North,Clothing,32.64,2,0.02,63.98,2023-07-13,2023,7,Thursday,0.6528,31.99,Adult,False
+1312,43,Male,East,Clothing,160.02,4,0.21,505.67,2023-12-13,2023,12,Wednesday,33.6042,126.4175,Adult,False
+1313,43,Female,West,Home Decor,67.16,2,0.1,120.88,2023-12-27,2023,12,Wednesday,6.716,60.44,Adult,False
+1314,48,Male,North,Home Decor,47.65,3,0.2,114.37,2023-09-14,2023,9,Thursday,9.53,38.123333333333335,Mature,False
+1315,35,Male,North,Home Decor,126.83,1,0.12,111.61,2023-03-13,2023,3,Monday,15.2196,111.61,Adult,False
+1316,41,Female,South,Electronics,159.29,1,0.23,122.65,2023-03-28,2023,3,Tuesday,36.6367,122.65,Adult,False
+1317,31,Male,North,Books,135.95,3,0.14,350.74,2023-09-19,2023,9,Tuesday,19.033,116.91333333333334,Adult,False
+1318,38,Male,East,Clothing,149.8,2,0.12,263.65,2023-08-02,2023,8,Wednesday,17.976,131.825,Adult,False
+1319,33,Male,North,Clothing,62.16,2,0.28,89.51,2023-06-02,2023,6,Friday,17.4048,44.755,Adult,False
+1321,40,Male,West,Clothing,175.07,1,0.04,168.06,2023-03-02,2023,3,Thursday,7.0028,168.06,Adult,False
+1322,26,Male,South,Clothing,83.87,2,0.18,137.54,2023-09-25,2023,9,Monday,15.0966,68.77,Young Adult,False
+1324,24,Female,West,Home Decor,166.41,4,0.11,592.42,2023-08-06,2023,8,Sunday,18.3051,148.105,Young Adult,True
+1325,22,Male,South,Books,127.81,5,0.02,626.28,2023-10-10,2023,10,Tuesday,2.5562,125.256,Young Adult,False
+1328,41,Male,North,Electronics,67.82,6,0.05,386.6,2023-04-03,2023,4,Monday,3.391,64.43333333333334,Adult,False
+1330,34,Male,North,Clothing,102.85,1,0.3,72.0,2023-08-29,2023,8,Tuesday,30.854999999999997,72.0,Adult,False
+1332,35,Male,South,Home Decor,176.42,3,0.11,471.05,2023-05-22,2023,5,Monday,19.4062,157.01666666666668,Adult,False
+1333,28,Female,East,Clothing,125.39,2,0.12,220.69,2023-10-18,2023,10,Wednesday,15.0468,110.345,Young Adult,False
+1334,44,Male,North,Books,126.91,3,0.03,369.32,2023-08-25,2023,8,Friday,3.8072999999999997,123.10666666666667,Adult,False
+1335,33,Female,East,Electronics,153.63,5,0.26,568.41,2023-12-06,2023,12,Wednesday,39.9438,113.68199999999999,Adult,False
+1336,26,Female,North,Books,81.75,5,0.12,359.71,2023-11-08,2023,11,Wednesday,9.81,71.942,Young Adult,False
+1337,31,Male,North,Electronics,58.04,2,0.12,102.15,2023-06-26,2023,6,Monday,6.964799999999999,51.075,Adult,False
+1338,39,Female,West,Home Decor,47.76,3,0.2,114.62,2023-05-21,2023,5,Sunday,9.552,38.20666666666667,Adult,True
+1339,29,Male,West,Electronics,1.68,6,0.13,8.78,2023-07-08,2023,7,Saturday,0.2184,1.4633333333333332,Young Adult,True
+1340,26,Female,West,Home Decor,202.81,3,0.19,492.83,2023-02-18,2023,2,Saturday,38.5339,164.27666666666667,Young Adult,True
+1341,37,Male,East,Books,44.84,2,0.02,87.89,2023-10-29,2023,10,Sunday,0.8968,43.945,Adult,True
+1342,37,Male,South,Home Decor,88.94,3,0.24,202.78,2023-07-09,2023,7,Sunday,21.345599999999997,67.59333333333333,Adult,True
+1343,29,Female,North,Books,86.16,1,0.28,62.03,2023-05-16,2023,5,Tuesday,24.1248,62.03,Young Adult,False
+1344,30,Male,North,Clothing,115.37,1,0.19,93.45,2023-02-12,2023,2,Sunday,21.9203,93.45,Young Adult,True
+1345,37,Male,North,Clothing,140.79,4,0.29,399.83,2023-12-19,2023,12,Tuesday,40.8291,99.9575,Adult,False
+1347,20,Male,West,Home Decor,70.85,6,0.14,365.57,2023-10-22,2023,10,Sunday,9.919,60.928333333333335,Young Adult,True
+1348,27,Male,South,Clothing,91.64,2,0.18,150.3,2023-12-07,2023,12,Thursday,16.4952,75.15,Young Adult,False
+1349,32,Female,East,Electronics,114.13,3,0.17,284.18,2023-09-02,2023,9,Saturday,19.4021,94.72666666666667,Adult,True
+1350,38,Female,West,Books,87.57,2,0.12,154.12,2023-07-11,2023,7,Tuesday,10.508399999999998,77.06,Adult,False
+1352,43,Male,South,Electronics,124.55,1,0.04,119.57,2023-04-16,2023,4,Sunday,4.982,119.57,Adult,True
+1353,33,Female,West,Home Decor,136.74,4,0.12,481.34,2023-12-29,2023,12,Friday,16.4088,120.335,Adult,False
+1354,34,Female,East,Home Decor,133.14,3,0.05,379.46,2023-11-06,2023,11,Monday,6.657,126.48666666666666,Adult,False
+1355,24,Male,South,Books,158.67,3,0.22,371.3,2023-08-21,2023,8,Monday,34.907399999999996,123.76666666666667,Young Adult,False
+1356,34,Female,North,Clothing,109.05,5,0.06,512.54,2023-09-22,2023,9,Friday,6.542999999999999,102.508,Adult,False
+1357,32,Male,South,Home Decor,35.16,1,0.02,34.46,2023-12-10,2023,12,Sunday,0.7031999999999999,34.46,Adult,True
+1358,38,Male,North,Home Decor,119.98,4,0.17,398.35,2023-02-06,2023,2,Monday,20.396600000000003,99.5875,Adult,False
+1359,26,Male,East,Electronics,67.43,1,0.18,55.29,2023-11-01,2023,11,Wednesday,12.137400000000001,55.29,Young Adult,False
+1360,40,Male,West,Electronics,73.57,1,0.26,54.44,2023-02-10,2023,2,Friday,19.1282,54.44,Adult,False
+1361,50,Male,West,Clothing,129.32,1,0.17,107.33,2023-01-17,2023,1,Tuesday,21.9844,107.33,Mature,False
+1363,39,Female,West,Home Decor,101.06,1,0.24,76.81,2023-10-04,2023,10,Wednesday,24.2544,76.81,Adult,False
+1364,41,Female,West,Electronics,115.44,4,0.16,387.88,2023-11-03,2023,11,Friday,18.4704,96.97,Adult,False
+1365,30,Female,North,Home Decor,185.11,2,0.02,362.82,2023-02-28,2023,2,Tuesday,3.7022000000000004,181.41,Young Adult,False
+1366,37,Male,East,Books,112.04,1,0.17,92.99,2023-07-02,2023,7,Sunday,19.0468,92.99,Adult,True
+1367,35,Male,South,Electronics,230.08,1,0.27,167.96,2023-02-10,2023,2,Friday,62.12160000000001,167.96,Adult,False
+1368,35,Male,North,Clothing,128.28,1,0.12,112.88,2023-02-08,2023,2,Wednesday,15.3936,112.88,Adult,False
+1369,27,Male,East,Electronics,11.96,2,0.09,21.77,2023-07-11,2023,7,Tuesday,1.0764,10.885,Young Adult,False
+1370,35,Female,North,Home Decor,137.67,2,0.04,264.32,2023-09-24,2023,9,Sunday,5.506799999999999,132.16,Adult,True
+1372,49,Male,South,Electronics,164.49,2,0.13,286.21,2023-11-29,2023,11,Wednesday,21.3837,143.105,Mature,False
+1373,44,Female,East,Books,133.66,1,0.18,109.6,2023-05-07,2023,5,Sunday,24.058799999999998,109.6,Adult,True
+1374,56,Female,South,Books,93.08,2,0.02,182.43,2023-02-15,2023,2,Wednesday,1.8616,91.215,Mature,False
+1375,27,Female,North,Electronics,38.79,2,0.28,55.85,2023-02-14,2023,2,Tuesday,10.8612,27.925,Young Adult,False
+1377,36,Male,North,Books,57.47,2,0.18,94.26,2023-06-17,2023,6,Saturday,10.3446,47.13,Adult,True
+1379,26,Female,South,Clothing,129.43,3,0.02,380.52,2023-01-19,2023,1,Thursday,2.5886,126.83999999999999,Young Adult,False
+1380,26,Male,East,Books,183.5,4,0.14,631.22,2023-11-28,2023,11,Tuesday,25.69,157.805,Young Adult,False
+1381,29,Male,West,Books,119.73,4,0.19,387.94,2023-03-13,2023,3,Monday,22.7487,96.985,Young Adult,False
+1382,13,Male,South,Books,40.21,3,0.25,90.46,2023-04-19,2023,4,Wednesday,10.0525,30.153333333333332,Teen,False
+1383,29,Female,North,Clothing,122.23,3,0.24,278.68,2023-09-25,2023,9,Monday,29.3352,92.89333333333333,Young Adult,False
+1384,27,Male,North,Electronics,159.83,2,0.08,294.09,2023-08-28,2023,8,Monday,12.7864,147.045,Young Adult,False
+1386,38,Male,East,Books,93.3,2,0.04,179.13,2023-03-31,2023,3,Friday,3.7319999999999998,89.565,Adult,False
+1387,53,Male,East,Electronics,100.73,3,0.26,223.63,2023-04-13,2023,4,Thursday,26.1898,74.54333333333334,Mature,False
+1388,44,Male,North,Books,60.76,1,0.29,43.14,2023-09-07,2023,9,Thursday,17.620399999999997,43.14,Adult,False
+1389,29,Female,North,Clothing,132.41,2,0.05,251.59,2023-01-08,2023,1,Sunday,6.6205,125.795,Young Adult,True
+1390,26,Male,East,Electronics,93.95,1,0.22,73.28,2023-06-02,2023,6,Friday,20.669,73.28,Young Adult,False
+1391,39,Female,West,Clothing,120.98,1,0.01,119.77,2023-12-13,2023,12,Wednesday,1.2098,119.77,Adult,False
+1392,21,Female,South,Books,55.63,2,0.12,97.9,2023-06-23,2023,6,Friday,6.6756,48.95,Young Adult,False
+1393,53,Female,North,Books,78.13,3,0.15,199.22,2023-12-09,2023,12,Saturday,11.719499999999998,66.40666666666667,Mature,True
+1394,46,Male,North,Clothing,136.12,2,0.17,225.96,2023-06-07,2023,6,Wednesday,23.140400000000003,112.98,Mature,False
+1396,17,Male,South,Clothing,186.35,3,0.2,447.24,2023-06-26,2023,6,Monday,37.27,149.08,Teen,False
+1397,48,Male,East,Books,80.02,2,0.14,137.63,2023-06-24,2023,6,Saturday,11.2028,68.815,Mature,True
+1398,33,Female,South,Clothing,111.23,2,0.24,169.08,2023-12-06,2023,12,Wednesday,26.6952,84.54,Adult,False
+1400,19,Female,South,Clothing,29.08,4,0.01,115.16,2023-05-26,2023,5,Friday,0.2908,28.79,Young Adult,False
+1401,29,Male,North,Home Decor,11.96,2,0.29,16.98,2023-11-20,2023,11,Monday,3.4684,8.49,Young Adult,False
+1402,35,Female,West,Home Decor,23.72,2,0.03,46.01,2023-06-10,2023,6,Saturday,0.7115999999999999,23.005,Adult,True
+1403,35,Male,East,Clothing,163.13,1,0.24,123.98,2023-05-07,2023,5,Sunday,39.151199999999996,123.98,Adult,True
+1404,30,Female,West,Clothing,72.41,2,0.08,133.23,2023-03-23,2023,3,Thursday,5.7928,66.615,Young Adult,False
+1405,41,Male,East,Electronics,227.91,2,0.04,437.59,2023-05-27,2023,5,Saturday,9.1164,218.795,Adult,True
+1406,24,Male,South,Books,71.79,2,0.13,124.91,2023-08-27,2023,8,Sunday,9.3327,62.455,Young Adult,True
+1407,33,Female,North,Home Decor,109.23,4,0.19,353.9,2023-03-25,2023,3,Saturday,20.753700000000002,88.475,Adult,True
+1409,40,Female,North,Clothing,200.3,1,0.02,196.3,2023-08-13,2023,8,Sunday,4.006,196.3,Adult,True
+1410,42,Female,East,Books,203.08,4,0.18,666.09,2023-11-28,2023,11,Tuesday,36.5544,166.5225,Adult,False
+1413,47,Female,West,Electronics,129.63,3,0.06,365.55,2023-02-10,2023,2,Friday,7.777799999999999,121.85000000000001,Mature,False
+1415,27,Male,North,Clothing,72.44,1,0.01,71.72,2023-10-12,2023,10,Thursday,0.7244,71.72,Young Adult,False
+1417,36,Female,East,Books,99.83,1,0.25,74.87,2023-07-21,2023,7,Friday,24.9575,74.87,Adult,False
+1418,46,Male,North,Books,91.49,2,0.18,150.04,2023-11-03,2023,11,Friday,16.4682,75.02,Mature,False
+1419,35,Female,West,Clothing,77.34,2,0.11,137.66,2023-11-27,2023,11,Monday,8.5074,68.83,Adult,False
+1420,55,Male,East,Home Decor,134.82,1,0.24,102.46,2023-09-23,2023,9,Saturday,32.3568,102.46,Mature,True
+1421,52,Male,East,Clothing,147.77,2,0.17,245.29,2023-07-29,2023,7,Saturday,25.120900000000002,122.645,Mature,True
+1422,32,Male,West,Books,104.42,3,0.25,234.95,2023-02-20,2023,2,Monday,26.105,78.31666666666666,Adult,False
+1424,41,Female,North,Clothing,42.92,3,0.24,97.85,2023-07-20,2023,7,Thursday,10.3008,32.61666666666667,Adult,False
+1425,48,Female,East,Clothing,90.32,1,0.18,74.06,2023-02-08,2023,2,Wednesday,16.257599999999996,74.06,Mature,False
+1426,25,Female,North,Home Decor,64.16,4,0.12,225.84,2023-01-28,2023,1,Saturday,7.699199999999999,56.46,Young Adult,True
+1427,41,Male,South,Electronics,6.67,5,0.29,23.69,2023-09-16,2023,9,Saturday,1.9343,4.738,Adult,True
+1428,45,Female,West,Electronics,95.87,1,0.16,80.53,2023-03-25,2023,3,Saturday,15.339200000000002,80.53,Adult,True
+1429,17,Female,South,Clothing,93.91,1,0.18,77.01,2023-06-04,2023,6,Sunday,16.9038,77.01,Teen,True
+1430,23,Female,North,Electronics,175.67,4,0.07,653.5,2023-04-27,2023,4,Thursday,12.2969,163.375,Young Adult,False
+1431,14,Male,East,Electronics,131.54,1,0.19,106.55,2023-01-02,2023,1,Monday,24.9926,106.55,Teen,False
+1432,32,Male,West,Clothing,48.79,1,0.17,40.5,2023-04-03,2023,4,Monday,8.2943,40.5,Adult,False
+1433,42,Male,North,Clothing,192.7,3,0.06,543.43,2023-06-15,2023,6,Thursday,11.562,181.14333333333332,Adult,False
+1434,50,Female,North,Books,161.05,2,0.02,315.66,2023-12-16,2023,12,Saturday,3.221,157.83,Mature,True
+1436,51,Female,East,Home Decor,88.68,1,0.23,68.28,2023-09-15,2023,9,Friday,20.396400000000003,68.28,Mature,False
+1437,21,Male,South,Clothing,52.03,2,0.16,87.41,2023-03-22,2023,3,Wednesday,8.3248,43.705,Young Adult,False
+1438,17,Male,West,Books,81.39,1,0.07,75.69,2023-09-25,2023,9,Monday,5.6973,75.69,Teen,False
+1439,34,Female,West,Home Decor,154.44,4,0.2,494.2,2023-08-23,2023,8,Wednesday,30.888,123.55,Adult,False
+1440,38,Male,East,Electronics,194.23,3,0.02,571.03,2023-11-17,2023,11,Friday,3.8846,190.34333333333333,Adult,False
+1442,14,Male,West,Clothing,75.56,2,0.05,143.56,2023-10-28,2023,10,Saturday,3.7780000000000005,71.78,Teen,True
+1443,34,Male,East,Home Decor,44.02,4,0.06,165.51,2023-12-23,2023,12,Saturday,2.6412,41.3775,Adult,True
+1444,21,Female,North,Clothing,107.04,2,0.06,201.24,2023-08-01,2023,8,Tuesday,6.4224000000000006,100.62,Young Adult,False
+1445,41,Male,West,Electronics,11.58,1,0.12,10.19,2023-03-03,2023,3,Friday,1.3896,10.19,Adult,False
+1446,38,Male,South,Home Decor,116.16,2,0.02,227.67,2023-02-18,2023,2,Saturday,2.3232,113.835,Adult,True
+1447,25,Male,South,Electronics,92.62,2,0.12,163.01,2023-05-07,2023,5,Sunday,11.1144,81.505,Young Adult,True
+1448,29,Male,South,Electronics,76.7,2,0.15,130.39,2023-08-11,2023,8,Friday,11.505,65.195,Young Adult,False
+1449,24,Female,North,Books,20.26,1,0.14,17.43,2023-10-06,2023,10,Friday,2.8364000000000007,17.43,Young Adult,False
+1451,44,Male,West,Home Decor,73.36,3,0.25,165.07,2023-10-11,2023,10,Wednesday,18.34,55.02333333333333,Adult,False
+1452,25,Male,North,Electronics,41.5,6,0.04,239.06,2023-10-04,2023,10,Wednesday,1.6600000000000001,39.843333333333334,Young Adult,False
+1453,40,Male,West,Electronics,43.61,1,0.15,37.07,2023-04-17,2023,4,Monday,6.5415,37.07,Adult,False
+1454,29,Male,North,Home Decor,98.62,2,0.02,193.3,2023-05-26,2023,5,Friday,1.9724000000000002,96.65,Young Adult,False
+1455,27,Male,North,Electronics,188.61,2,0.02,369.68,2023-04-09,2023,4,Sunday,3.7722,184.84,Young Adult,True
+1456,33,Male,North,Books,183.06,2,0.17,303.88,2023-03-14,2023,3,Tuesday,31.120200000000004,151.94,Adult,False
+1457,24,Female,South,Books,77.15,2,0.17,128.06,2023-05-02,2023,5,Tuesday,13.115500000000003,64.03,Young Adult,False
+1458,29,Male,West,Books,69.89,2,0.26,103.44,2023-01-30,2023,1,Monday,18.171400000000002,51.72,Young Adult,False
+1459,23,Female,North,Books,123.44,1,0.17,102.45,2023-07-07,2023,7,Friday,20.9848,102.45,Young Adult,False
+1460,54,Female,West,Electronics,50.08,4,0.29,142.23,2023-12-30,2023,12,Saturday,14.5232,35.5575,Mature,True
+1461,35,Male,South,Home Decor,115.09,3,0.01,341.82,2023-12-20,2023,12,Wednesday,1.1509,113.94,Adult,False
+1463,37,Female,East,Home Decor,161.35,2,0.01,319.47,2023-07-14,2023,7,Friday,1.6135,159.735,Adult,False
+1464,33,Female,South,Home Decor,94.99,2,0.06,178.59,2023-06-05,2023,6,Monday,5.6994,89.295,Adult,False
+1465,32,Female,East,Clothing,89.82,3,0.16,226.34,2023-06-21,2023,6,Wednesday,14.3712,75.44666666666667,Adult,False
+1466,41,Female,West,Home Decor,56.1,1,0.19,45.44,2023-12-01,2023,12,Friday,10.659,45.44,Adult,False
+1467,42,Female,West,Clothing,58.66,2,0.01,116.14,2023-02-10,2023,2,Friday,0.5866,58.07,Adult,False
+1469,29,Female,West,Books,118.37,3,0.25,266.33,2023-01-23,2023,1,Monday,29.5925,88.77666666666666,Young Adult,False
+1470,32,Female,East,Clothing,145.68,3,0.09,397.7,2023-12-26,2023,12,Tuesday,13.1112,132.56666666666666,Adult,False
+1471,11,Female,North,Electronics,59.84,2,0.02,117.29,2023-03-16,2023,3,Thursday,1.1968,58.645,Teen,False
+1473,48,Female,North,Books,86.44,3,0.04,248.96,2023-06-09,2023,6,Friday,3.4576,82.98666666666666,Mature,False
+1474,51,Male,South,Clothing,98.93,2,0.04,189.95,2023-11-09,2023,11,Thursday,3.9572000000000003,94.975,Mature,False
+1475,32,Female,West,Electronics,62.64,4,0.16,210.47,2023-04-28,2023,4,Friday,10.022400000000001,52.6175,Adult,False
+1476,40,Male,East,Electronics,21.21,1,0.07,19.73,2023-04-10,2023,4,Monday,1.4847000000000001,19.73,Adult,False
+1477,38,Male,West,Electronics,144.2,3,0.11,385.02,2023-06-16,2023,6,Friday,15.861999999999998,128.34,Adult,False
+1478,65,Female,West,Books,136.84,2,0.3,191.58,2023-10-17,2023,10,Tuesday,41.052,95.79,Senior,False
+1479,46,Female,West,Books,85.93,4,0.21,271.55,2023-06-05,2023,6,Monday,18.0453,67.8875,Mature,False
+1481,25,Female,East,Books,125.8,2,0.04,241.53,2023-07-15,2023,7,Saturday,5.032,120.765,Young Adult,True
+1482,18,Male,East,Electronics,21.87,1,0.11,19.47,2023-02-25,2023,2,Saturday,2.4057,19.47,Teen,True
+1483,37,Male,West,Electronics,73.55,1,0.17,61.04,2023-11-17,2023,11,Friday,12.5035,61.04,Adult,False
+1484,27,Male,North,Books,139.71,1,0.02,136.92,2023-07-12,2023,7,Wednesday,2.7942,136.92,Young Adult,False
+1486,28,Male,East,Books,114.68,1,0.2,91.74,2023-05-28,2023,5,Sunday,22.936000000000003,91.74,Young Adult,True
+1487,24,Female,North,Books,32.17,2,0.19,52.12,2023-10-02,2023,10,Monday,6.1123,26.06,Young Adult,False
+1488,51,Male,North,Electronics,123.32,3,0.12,325.57,2023-06-06,2023,6,Tuesday,14.798399999999999,108.52333333333333,Mature,False
+1489,43,Male,North,Home Decor,98.22,5,0.15,417.43,2023-07-21,2023,7,Friday,14.732999999999999,83.486,Adult,False
+1490,34,Female,South,Electronics,19.24,3,0.12,50.8,2023-05-06,2023,5,Saturday,2.3087999999999997,16.933333333333334,Adult,True
+1491,49,Male,West,Home Decor,158.24,2,0.01,313.31,2023-11-01,2023,11,Wednesday,1.5824,156.655,Mature,False
+1492,35,Female,East,Electronics,63.27,4,0.1,227.77,2023-10-21,2023,10,Saturday,6.327000000000001,56.9425,Adult,True
+1493,26,Female,East,Books,59.49,3,0.05,169.54,2023-03-05,2023,3,Sunday,2.9745000000000004,56.51333333333333,Young Adult,True
+1494,50,Female,South,Electronics,110.03,2,0.03,213.46,2023-11-21,2023,11,Tuesday,3.3009,106.73,Mature,False
+1495,40,Male,West,Electronics,157.43,1,0.29,111.78,2023-06-25,2023,6,Sunday,45.6547,111.78,Adult,True
+1496,24,Male,East,Electronics,49.21,1,0.18,40.35,2023-04-26,2023,4,Wednesday,8.8578,40.35,Young Adult,False
+1497,33,Male,North,Books,103.08,4,0.22,321.62,2023-07-23,2023,7,Sunday,22.677599999999998,80.405,Adult,True
+1498,26,Female,East,Books,121.44,5,0.09,552.56,2023-11-17,2023,11,Friday,10.929599999999999,110.51199999999999,Young Adult,False
+1499,21,Male,North,Books,134.66,1,0.12,118.5,2023-01-31,2023,1,Tuesday,16.1592,118.5,Young Adult,False
